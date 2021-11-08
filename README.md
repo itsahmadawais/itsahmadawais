@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.itsahmadawais.com/blog/](https://www.itsahmadawais.com/blog/)
 
-- 💬 Ask me about **React, Php, Laravel, WordPress**
+- 💬 Ask me about **React, Php, Laravel, WordPress, Python, Django**
 
 - 📫 How to reach me **info@itsahmadawais.com**
 
