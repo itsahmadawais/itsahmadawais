@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.itsahmadawais.com/](https://www.itsahmadawais.com/)
 
-- 📝 I regularly write articles on [https://www.itsahmadawais.com/blog/](https://www.itsahmadawais.com/blog/)
+- 📝 I regularly write articles on [https://blog.itsahmadawais.com/](https://blog.itsahmadawais.com/)
 
 - 💬 Ask me about **React, Php, Laravel, WordPress, Python, Django**
 
