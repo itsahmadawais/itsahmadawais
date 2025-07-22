@@ -14,7 +14,7 @@
 I'm a full-stack developer and startup explorer, passionate about building scalable products and automating complex systems. Currently working as a **Lead Software Engineer**, I'm also experimenting with startup ideas, generative AI, and no-code/low-code automation.
 
 - 🔭 Currently working on MVPs and ideas
-- 🧠 Exploring Generative AI, Automation, AI APIs
+- 🧠 Exploring and building Generative AI, LLMs, Automation, AI APIs
 - 🌱 Mastering Python & Cloud
 - 📫 Reach me: **info@itsahmadawais.com**
 - 🤝 Open to: Collaborations, mentorship, volunteering, and co-founding ideas
