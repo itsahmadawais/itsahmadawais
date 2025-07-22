@@ -1,5 +1,12 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsahmadawais&label=Profile%20views&color=0e75b6&style=flat" alt="itsahmadawais" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Awais Ahmad</h1>
-<h3 align="center">Lead Software Engineer | Building MVPs | Exploring Startups & Generative AI</h3>
+<h3 align="center">Lead Software Engineer | MVP Builder | Exploring Startups & Generative AI</h3>
 
 <p align="center">
   <a href="https://www.itsahmadawais.com">🌐 Portfolio</a> •
@@ -11,23 +18,37 @@
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer and startup explorer, passionate about building scalable products and automating complex systems. Currently working as a **Lead Software Engineer**, I'm also experimenting with startup ideas, generative AI, and no-code/low-code automation.
+I'm a full-stack engineer and startup enthusiast who turns ideas into working MVPs. Currently leading software engineering projects, while also exploring startup opportunities, building products, and integrating cutting-edge AI tools.
 
-- 🔭 Currently working on MVPs and ideas
-- 🧠 Exploring and building Generative AI, LLMs, Automation, AI APIs
-- 🌱 Mastering Python & Cloud
-- 📫 Reach me: **info@itsahmadawais.com**
-- 🤝 Open to: Collaborations, mentorship, volunteering, and co-founding ideas
+- 🔭 Working on AI-powered SaaS tools
+- 🧠 Exploring Generative AI, LLMs, AI APIs (OpenAI, Gemini, Claude)
+- 🛠️ Automating workflows with APIs, Python, and Zapier
+- 🌍 Open to collaborations, partnerships, and educational volunteering
+- 📫 Reach me at **info@itsahmadawais.com**
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, PHP, Python (basic)  
-**Frontend:** React, Next.js, Tailwind, Flutter, React Native  
-**Backend:** Node.js, Express, Laravel, MVC Architecture  
-**Tools:** Git, Docker, Firebase, MongoDB, MySQL, Postman  
-**Automation & AI:** OpenAI API, Zapier, Make.com, LangChain
+**Languages**  
+JavaScript (ES6+), TypeScript, PHP, Python (Pandas, Django), HTML/CSS  
+
+**Frontend**  
+React.js, Next.js, Tailwind CSS, ShadCN, Material UI, Flutter, React Native, WordPress  
+
+**Backend**  
+Node.js, Express.js, Laravel, REST APIs, MVC Architecture  
+
+**Databases**  
+MongoDB, MySQL, Firebase, SQLite, PostgreSQL, Supabase  
+
+**Cloud & DevOps**  
+AWS (EC2, S3, Lambda, RDS, CloudWatch, IAM, Route53, SES, SNS, SQS, CodePipeline, Step Functions, ECR)  
+Docker, GitHub Actions, CI/CD, Vercel, Firebase Hosting
+
+
+**Automation & AI**  
+OpenAI API, Gemini, LangChain, Zapier, Make.com, n8n 
 
 ---
 
@@ -47,12 +68,6 @@ I'm a full-stack developer and startup explorer, passionate about building scala
 
 ### 🧠 Let's Connect
 
-- 💬 Ask me about React, Node.js, Laravel, Automation, AI APIs  
-- 🧑‍🏫 I love mentoring & sharing what I know  
-- ⚡ Fun fact: I never run out of startup ideas
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsahmadawais&label=Profile%20views&color=0e75b6&style=flat" alt="itsahmadawais" />
-</p>
+- 💬 Ask me about React, Node.js, Laravel, Python, AI APIs, CI/CD, AWS
+- 🧑‍🏫 I love mentoring & sharing what I know
+- ⚡ Fun fact: I build MVPs faster than I finish coffee ☕
