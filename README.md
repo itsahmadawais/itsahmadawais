@@ -68,6 +68,6 @@ I think like a founder and build like an engineer.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awais%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsahmadawais/) [![X](https://img.shields.io/badge/X-@itsahmadawais-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itsahmadawais)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awais%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsahmadawais/) [![X](https://img.shields.io/badge/X-@itsahmadawais-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itahmadawais)
 
 </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=gradient&section=footer&reversal=true&animation=fadeIn" width="100%" /> </div>
