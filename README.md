@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Awais%20Ahmad&reversal=false&fontAlignY=58&animation=fadeIn&desc=Senior%20Backend%20AI%20Engineer&descAlignY=74&descSize=38" width="100%" /> </div> <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=fd1d1d&center=true&vCenter=true&width=680&lines=Scaled+to+140K%2B+Monthly+Transactions;Distributed+Systems+%7C+AWS+Cloud+Architect;Event-Driven+Microservices+at+Scale;RAG+Pipelines+%7C+LLM+Workflow+Automation;Founding+Engineer+%7C+0+to+1+and+Beyond)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=fd1d1d&center=true&vCenter=true&width=680&lines=Scaled+to+1M+%2B+Monthly+Transactions;Distributed+Systems+%7C+AWS+Cloud+Architect;Event-Driven+Microservices+at+Scale;RAG+Pipelines+%7C+LLM+Workflow+Automation;Founding+Engineer+%7C+0+to+1+and+Beyond)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 I'm a Senior Backend and AI Engineer with 6+ years of experience building data-intensive systems and cloud-native platforms. My work sits at the intersection of distributed systems, cloud infrastructure and AI integration — designing things that scale and keeping them reliable in production.
 
-Currently scaling document processing infrastructure handling **140K+ monthly transactions** via distributed microservices on AWS. Previously led backend and AI platform engineering at AIME, building a schema-driven code generation engine that automated full-stack application delivery. Founded and shipped multiple products as a solo architect and founding engineer.
+Currently scaling document processing infrastructure handling **1M+ monthly transactions** via distributed microservices on AWS. Previously led backend and AI platform engineering at AIME, building a schema-driven code generation engine that automated full-stack application delivery. Founded and shipped multiple products as a solo architect and founding engineer.
 
 I think like a founder and build like an engineer.
 
