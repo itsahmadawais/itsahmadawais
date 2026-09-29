@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&text=Awais%20Ahmad&reversal=false&fontAlignY=45&animation=fadeIn&desc=Senior%20Backend%20%26%20AI%20Engineer%20%C2%B7%207%2B%20Years&descAlignY=70&descSize=26" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&text=Awais%20Ahmad&reversal=false&fontAlignY=45&animation=fadeIn&desc=Senior%20Backend%20and%20AI%20Engineer%20%C2%B7%207%2B%20Years&descAlignY=70&descSize=26" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=fd1d1d&center=true&vCenter=true&width=680&lines=Scaled+to+1M+%2B+Monthly+Transactions;Distributed+Systems+%7C+AWS+Cloud+Architect;Event-Driven+Microservices+at+Scale;RAG+Pipelines+%7C+LLM+Workflow+Automation;Founding+Engineer+%7C+0+to+1+and+Beyond)](https://git.io/typing-svg)
 
