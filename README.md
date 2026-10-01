@@ -48,6 +48,7 @@ I design, build and scale **backend systems and AI platforms** that hold up in p
 
 ## 🛠️ Open Source Projects
 
+- ⚖️ **[legal-ai](https://github.com/itsahmadawais/legal-ai)**: Chat with your case documents. Every answer cites the source document and page, with case-level access control and a framework-free RAG pipeline · _FastAPI · Celery · Qdrant · React_
 - 🖥️ **[clidesk](https://github.com/itsahmadawais/clidesk)**: Terminal file explorer with an icon grid, git status, command runner and 6 themes. `brew install itsahmadawais/tap/clidesk` · _Go_
 - 🔐 **[typed-env-safe](https://github.com/itsahmadawais/typed-env-safe)** [![npm](https://img.shields.io/npm/v/typed-env-safe?style=flat-square&color=cb3837)](https://www.npmjs.com/package/typed-env-safe): Zero-dependency, TypeScript-first environment variable validation · _TypeScript_
 - ⚡ **[ai-taskflow](https://github.com/itsahmadawais/ai-taskflow)**: Distributed task-processing framework for AI workloads with plugin tasks and LangChain integration · _FastAPI · Redis · RQ_
